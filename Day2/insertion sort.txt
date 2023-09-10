@@ -13,5 +13,5 @@ void insertionSort(int arr[], int n) {
 }
 
 Time complexity
-Best case: O(N^2)
+Best case: O(N)
 Average and Best case: O(N^2)
